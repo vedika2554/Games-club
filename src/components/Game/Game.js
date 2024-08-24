@@ -9,7 +9,7 @@ function Game({urlimg, name, info ,cost}){
     return (
     
         <div  className="gc"style={{display:'flex',flexDirection:DIRECTION}}>
-            <img src={urlimg} className="kom"/>
+            <img src={urlimg} className="kom"alt=''/>
             <h1 className="npm"style={{color:WBBTH.he}}>{name} </h1>
             <p className="bmm">{info}</p>
             {
