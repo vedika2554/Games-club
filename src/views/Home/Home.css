@@ -1,0 +1,17 @@
+.cog{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.na{
+    text-align: center;
+    font-size: 35px;
+}
+.li{
+    text-align: center;
+    font-size: 25;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
