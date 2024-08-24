@@ -14,15 +14,6 @@ const WBBTH = {
     he:'#ff8ba7'
 }
 
-
-
-
-
-
-
-
-
-
 const PRODUCTS = [
     {
         urlimg:"https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
